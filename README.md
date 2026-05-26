@@ -17,5 +17,5 @@ Postive
 Negative
 
 ## Tools Used
--Manual Testing on Gmail (browser)
+- Manual Testing on Gmail (browser)
 - Microsoft Excel for test case document
